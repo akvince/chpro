@@ -127,6 +127,8 @@ section {
 footer {
   text-align: right;
   font-size: 1.2em;
+  position: absolute;
+  bottom: 0;
 }
 
 /* ==========================================================================
