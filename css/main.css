@@ -91,10 +91,14 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+html, body {
+    background-color: #FAFAFA;
+    font-family: Roboto, sans-serif;
+}
 
 /*header*/
 
-header{
+header {
     position: relative;
     min-height: auto;
     background-image: url(../img/header.jpg);
@@ -108,14 +112,21 @@ header{
 }
 
 /*positionnement et style du titre et texte du header*/
-.header-content, .search {
-  padding: 200px 0;
-  color: white;
-  font-weight: bold;
-}
 
+.header-content, .search {
+    padding: 200px 0;
+    color: white;
+    font-weight: bold;
+}
 .container {
-  margin-top: 50px;
+    margin-top: 50px;
+}
+section {
+    height: 320px;
+}
+footer {
+  text-align: right;
+  font-size: 1.2em;
 }
 
 /* ==========================================================================
