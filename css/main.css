@@ -103,14 +103,19 @@ header{
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-    height: 800px;
+    height: 700px;
+    font-size: 1.7em;
 }
 
 /*positionnement et style du titre et texte du header*/
 .header-content, .search {
-  padding: 180px 0;
+  padding: 200px 0;
   color: white;
   font-weight: bold;
+}
+
+.container {
+  margin-top: 50px;
 }
 
 /* ==========================================================================
