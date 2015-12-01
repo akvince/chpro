@@ -107,7 +107,7 @@ header {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-    height: 1024px;
+    height: 100%;
     font-size: 1.7em;
 }
 
