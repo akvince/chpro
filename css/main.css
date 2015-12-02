@@ -121,8 +121,12 @@ header {
 .container {
     margin-top: 50px;
 }
-section {
-    height: 320px;
+section{
+  
+}
+section img{
+  height: 240px;
+  width: 240px;
 }
 footer {
   text-align: right;
