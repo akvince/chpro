@@ -118,11 +118,11 @@ header {
     color: white;
     font-weight: bold;
 }
-.container {
+#corps {
     margin-top: 50px;
 }
 section{
-  
+
 }
 section img{
   height: 240px;
@@ -131,7 +131,7 @@ section img{
 footer {
   text-align: right;
   font-size: 1.2em;
-  bottom:0;
+  padding-bottom:
 }
 
 /* ==========================================================================
