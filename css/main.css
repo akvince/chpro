@@ -127,6 +127,7 @@ section{
 section img{
   height: 240px;
   width: 240px;
+  border-radius: 50%;
 }
 footer {
   text-align: right;
