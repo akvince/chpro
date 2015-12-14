@@ -125,9 +125,10 @@ section{
 
 }
 section img{
+  border: 2px solid grey;
   height: 240px;
-  width: 240px;
-  border-radius: 50%;
+  width: 280px;
+  border-radius: 5px;
 }
 footer {
   text-align: right;
